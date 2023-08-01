@@ -8,5 +8,6 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
-  plugins: [],
-}
+  /* Your site config here */
+  plugins: [`gatsby-plugin-theme-ui`],
+};
